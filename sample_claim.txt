@@ -1,0 +1,9 @@
+SAMPLE INSURANCE CLAIM FORM
+This is synthetic test data only. It is not a real patient record.
+
+Patient Name: Ananya Sharma
+Policy Number: POL-2026-10458
+Hospital Name: Sunrise Multi-Speciality Hospital
+Claim Amount: INR 25000
+Claim Date: 12/11/2026
+Diagnosis: Viral fever
